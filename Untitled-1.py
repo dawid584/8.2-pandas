@@ -1,5 +1,4 @@
 from csv import writer
-from operator import index
 import numpy as np
 import pandas as pd
 import xlsxwriter
